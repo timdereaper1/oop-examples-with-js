@@ -1,0 +1,28 @@
+{
+  "name": "oop-examples-with-js",
+  "version": "1.0.0",
+  "description": "Solved answers from Christabel's OOP questions using javascript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timdereaper1/oop-examples-with-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timdereaper1/oop-examples-with-js/issues"
+  },
+  "homepage": "https://github.com/timdereaper1/oop-examples-with-js#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "@types/node": "^12.7.12",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.1.0",
+    "typescript": "^3.6.3"
+  }
+}
